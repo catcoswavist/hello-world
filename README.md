@@ -8,7 +8,7 @@ quick start #https://docs.github.com/ja/get-started/quickstart/hello-world
 ・Pythonが好きです。短くて読みやすいからです。圧倒的爆速Hello Worldに感謝。  
 ・AtCoderのコンテストに参加しています。ゆっくりでも成長を感じており、楽しいです。  
 　アカウントhttps://atcoder.jp/users/catcoswavist    
-・授業でPerlを習いました。 正規表現などの文字列操作にたけているため、遺伝子解析の時に便利とのことです。 
+・授業でPerlを習いました。 Perlは正規表現などの文字列操作に便利で、遺伝子解析に使われるため学びました。   
 ・HTML/CSS/JavaScriptも触ったことあります。  
   
   
