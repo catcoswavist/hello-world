@@ -5,8 +5,8 @@ quick start #https://docs.github.com/ja/get-started/quickstart/hello-world
 ・大学生です。薬学専攻です。プログラミングが好きです。  
 
 ### プログラミングについて  
-・Pythonが好きです。短くて読みやすいからです。圧倒的爆速Hello World。  
-・AtCoderのコンテストに参加しています。ゆっくりでも成長を感じ楽しいです。  
+・Pythonが好きです。短くて読みやすいからです。圧倒的爆速Hello Worldに感謝。  
+・AtCoderのコンテストに参加しています。ゆっくりでも成長を感じており、楽しいです。  
 　アカウントhttps://atcoder.jp/users/catcoswavist    
 ・授業でPerlを習いました。 正規表現などの文字列操作にたけているため、遺伝子解析の時に便利とのことです。 
 ・HTML/CSS/JavaScriptも触ったことあります。  
@@ -24,4 +24,5 @@ quick start #https://docs.github.com/ja/get-started/quickstart/hello-world
 ### コメント  
 ・AtCoder　Ploblemsのリンクってこれでいいんですか？
 https://kenkoooo.com/atcoder/#/training  
-・GitHub勉強中で結構ハマっています。たすけて  
+
+・GitHub勉強中です。スマホの充電ないときって二段階認証どうするんですか？  
