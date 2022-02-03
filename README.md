@@ -9,7 +9,7 @@ quick start #https://docs.github.com/ja/get-started/quickstart/hello-world
 ・AtCoderのコンテストに参加しています。ゆっくりでも成長を感じており、楽しいです。  
 　アカウントhttps://atcoder.jp/users/catcoswavist    
 ・授業でPerlを習いました。 Perlは正規表現などの文字列操作に便利で、遺伝子解析に使われるため学びました。   
-・HTML/CSS/JavaScriptも触ったことあります。  
+・JavaScript、HTML/CSSも触ったことあります。
   
   
 ### 今やってること  
