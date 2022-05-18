@@ -1,7 +1,7 @@
 ### hello-world
 quick start #https://docs.github.com/ja/get-started/quickstart/hello-world
 
-### ねこさいんって誰？
+### catcoswavistについて
 ・大学生です。薬学専攻ですが、技術者志望です。  
 
 ### プログラミングについて  
@@ -24,6 +24,5 @@ quick start #https://docs.github.com/ja/get-started/quickstart/hello-world
 | 基礎情報技術者試験 | 今春取得予定です。 |
 | 輪読会＠Code Polaris | ネットワークの本とクリーンアーキテクチャの本を読んでいます。いろんな話が聞けて楽しいです。 |
 | TECH PLAY GIRLS 朝会 | 朝8時から始める一人ラジオ#haya8好評開催中です。 |
-| ハッカソン | 技育CAMPの「はじめてのハッカソン」に参加しました。
-成果物「Color Bartender」　https://masa5555.github.io/hackthon0423_team29/ | 
+| ハッカソン | 技育CAMPの「はじめてのハッカソン」に参加しました。成果物「Color Bartender」　https://masa5555.github.io/hackthon0423_team29/ | 
 
