@@ -1,28 +1,29 @@
-# hello-world
+### hello-world
 quick start #https://docs.github.com/ja/get-started/quickstart/hello-world
 
 ### ねこさいんって誰？
-・大学生です。薬学専攻です。プログラミングが好きです。  
+・大学生です。薬学専攻ですが、技術者志望です。  
 
 ### プログラミングについて  
-・Pythonが好きです。短くて読みやすいからです。圧倒的爆速Hello Worldに感謝。  
-・AtCoderのコンテストに参加しています。ゆっくりでも成長を感じており、楽しいです。  
-　アカウントhttps://atcoder.jp/users/catcoswavist    
+・Pythonが好きです。短くて読みやすいからです。Hello Worldの速さとライブラリの多さが魅力です。  
+・AtCoderのコンテストに参加しています。着実に成長を感じており、楽しいです。  
+　アカウントhttps://atcoder.jp/users/catcoswavist
+  最高Rating : 449
+  AtCoder　Ploblemsのリンク
+  https://kenkoooo.com/atcoder/#/training  
 ・授業でPerlを習いました。 Perlは正規表現などの文字列操作に便利で、遺伝子解析に使われるため学びました。   
-・JavaScript、HTML/CSSも触ったことあります。
+・JavaScript、HTML/CSSも触ったことあります。技育CAMPの「はじめてのハッカソン」での成果物はVue.jsを扱いました。
   
   
 ### 今やってること  
 | 項目 | 説明 |
 | ---- | ---- |
-| 競プロ | 物理好きさんの道場で勉強しています。 |
-| 基礎情報技術者試験 | がんばる（がんばる） |
-| 輪読会＠Code Polaris | ネットワークの本とクリーンアーキテクチャの本。いろんな話が聞けて楽しいです。 |
-| TECH PLAY GIRLS 朝会 | ほかの参加者がいないとき、虚無の一人ラジオを行っています。 |
-| 就職活動 | ねこさいん飼育員このゆびとまれ！！ |  
+| AtCoder | 物理好きさんの道場で勉強しています。 |
+| CTF | Ir0nMaidenにて勉強しています。 |
+| データサイエンス | 「東京大学グローバル消費インテリジェンス寄付講座」を受講しています。 |
+| 基礎情報技術者試験 | 今春取得予定です。 |
+| 輪読会＠Code Polaris | ネットワークの本とクリーンアーキテクチャの本を読んでいます。いろんな話が聞けて楽しいです。 |
+| TECH PLAY GIRLS 朝会 | 朝8時から始める一人ラジオ#haya8好評開催中です。 |
+| ハッカソン | 技育CAMPの「はじめてのハッカソン」に参加しました。
+成果物「Color Bartender」　https://masa5555.github.io/hackthon0423_team29/ | 
 
-### コメント  
-・AtCoder　Ploblemsのリンクってこれでいいんですか？
-https://kenkoooo.com/atcoder/#/training  
-
-・GitHub勉強中です。スマホの充電ないときって二段階認証どうするんですか？  
