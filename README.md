@@ -16,13 +16,15 @@ quick start #https://docs.github.com/ja/get-started/quickstart/hello-world
   
   
 ### 今やってること  
-| 項目 | 説明 |
-| ---- | ---- |
-| AtCoder | 物理好きさんの道場で勉強しています。 |
+| 項目 | 説明 |  
+| ---- | ---- |  
+| AtCoder | 物理好きさんの道場で勉強しています。 |  
 | CTF | Ir0nMaidenにて勉強しています。 |
 | データサイエンス | 「東京大学グローバル消費インテリジェンス寄付講座」を受講しています。 |
-| 基礎情報技術者試験 | 今春取得予定です。 |
-| 輪読会＠Code Polaris | ネットワークの本とクリーンアーキテクチャの本を読んでいます。いろんな話が聞けて楽しいです。 |
-| TECH PLAY GIRLS 朝会 | 朝8時から始める一人ラジオ#haya8好評開催中です。 |
+| 基礎情報技術者試験 | 2022年6月に取得しました。 |
+| 輪読会＠Code Polaris | ネットワークの本とクリーンアーキテクチャの本を読んでいます。いろんな話が聞けて楽しいです。|
+| ISUCON＠Code Polaris | ISUCON12に、77webさん、kumo2kumoさんと、チームちょこもかとして参戦しました。 |
+| TECH PLAY GIRLS 朝会 | 月曜朝8時から始める一人ラジオ#haya8 好評開催中です。 |
 | ハッカソン | 技育CAMPの「はじめてのハッカソン」に参加しました。成果物「Color Bartender」　https://masa5555.github.io/hackthon0423_team29/ | 
+
 
